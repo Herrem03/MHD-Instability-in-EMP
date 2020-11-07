@@ -2,4 +2,4 @@
 
 Analytical analysis of magnetic field expulsion in electromagnetic pumps
 
-Due to GitHub Jupyter Notebook instable reading, please use :
+:warning: Visualisation of Jupyter Notebooks on GitHub can sometimes be problematic, I recommend using nbviewer via this [link]
